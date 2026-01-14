@@ -1,4 +1,4 @@
-# 💜 Machine Learning Final Term – Telkom University
+# Machine Learning Final Term – Telkom University
 
 This repository contains my work for the **Final Term Examination (UAS)** of the  
 **Machine Learning** course at **Telkom University**.
@@ -119,5 +119,7 @@ df.head()
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project for educational and research purposes.
+
+---
 
 <p align="center"> <i>Final Term Project • Machine Learning • Telkom University</i> </p>
